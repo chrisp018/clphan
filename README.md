@@ -1,4 +1,4 @@
-# Hi there, I'm Khanh - aka [clphan] (https://github.com/clphan) 👋 
+# Hi there, I'm Khanh - aka [clphan](https://github.com/clphan) 👋 
 
 ## I'm a DevOps Engineer!!
 
