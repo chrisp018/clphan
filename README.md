@@ -31,5 +31,11 @@
 
 [![Khanh's GitHub stats](https://github-readme-stats.vercel.app/api?username=clphan&show_icons=true&theme=tokyonight)](https://github.com/clphan/github-readme-stats)
 
+---
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=clphan&layout=compact)](https://github.com/clphan/github-readme-stats)
+
+---
+
 [website]: https://clphan.com
 [linkedin]: https://linkedin.com/in/clphan
