@@ -24,8 +24,8 @@
 [<img align="left" alt="Terraform" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" style="padding-right:10px;" />](terraform)
 [<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" style="padding-right:10px;" />](pythonlanguage)
 [<img align="left" alt="Flask" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" style="padding-right:10px;" />](flask)
-[<img align="left" alt="Terminal" width="26px" src="./img/terminal-dark.svg" />](#gh-light-mode-only)
-[<img align="left" alt="Terminal" width="26px" src="./img/terminal-light.svg" />](#gh-dark-mode-only)
+[<img align="left" alt="Terminal" width="26px" src="./img/terminal-dark.svg" />](https://clphan.com#gh-light-mode-only)
+[<img align="left" alt="Terminal" width="26px" src="./img/terminal-light.svg" />](https://clphan.com#gh-dark-mode-only)
 
 
 <br />
