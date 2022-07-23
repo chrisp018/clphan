@@ -1,8 +1,8 @@
-# Hi there, I'm Khanh - aka [clphan][https://clphan.com] 👋 
+# Hi there, I'm Khanh - aka [clphan] (https://github.com/clphan) 👋 
 
-## I'm a husband and DevOps Engineer!!
+## I'm a DevOps Engineer!!
 
-- 🔭 Check out my blog: [Personal Blog][https://clphan.com]!
+- 🔭 Check out my blog: [Personal Blog](https://clphan.com)!
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2022 Goals: Learn more about blockchain and web3 🔥
 - ⚡ Fun fact: I love coffee and I love machines 😅
