@@ -9,8 +9,8 @@
 
 ### Connect with me:
 
-[![website](./img/globe-dark.svg)](https://clphan.com)
-[![website](./img/globe-light.svg)](https://clphan.com)
+[![website](./img/globe-dark.svg)](https://clphan.com#gh-dark-mode-only)
+[![website](./img/globe-light.svg)](https://clphan.com#gh-light-mode-only)
 &nbsp;&nbsp;
 [![website](./img/linkedin-dark.svg)](https://linkedin.com/in/clphan)
 [![website](./img/linkedin-light.svg)](https://linkedin.com/in/clphan)
