@@ -29,5 +29,7 @@
 
 ---
 
+[![Khanh's GitHub stats](https://github-readme-stats.vercel.app/api?username=clphan)](https://github.com/clphan/github-readme-stats)
+
 [website]: https://clphan.com
 [linkedin]: https://linkedin.com/in/clphan
