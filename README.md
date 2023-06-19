@@ -33,11 +33,8 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Harness Workflow Template](https://clphan.com/harness-workflow-template)
-- [Deploy Hyperledger Fabric CA &lpar;Local&rpar;](https://clphan.com/deploy-hyperledger-fabric-ca-local)
-- [AWS Direct Connect Note](https://clphan.com/aws-direct-connect-note)
-- [Kubernetes CPU Resources Deep Dive](https://clphan.com/kubernetes-cpu-resources-deep-dive)
-- [Abstract class and Interface in Python](https://clphan.com/abstract-class-and-interface-in-python)
+- [Dres4Win Case Study — Summary](https://chris-phan.medium.com/dres4win-case-study-summary-7be2a195e63d?source=rss-4c1e7b79831b------2)
+- [Remote access to private cloud using OpenVPN and Iptables — Part1](https://chris-phan.medium.com/remote-access-to-private-cloud-using-openvpn-and-iptables-part1-985c502ef364?source=rss-4c1e7b79831b------2)
 <!-- BLOG-POST-LIST:END -->
 ➡️ [more blog posts...](https://clphan.com)
 
