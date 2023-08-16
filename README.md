@@ -33,11 +33,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [7 Top Kubernetes Monitoring Tools - TechVueHub](https://clphan.com/7-top-kubernetes-monitoring-tools-techvuehub)
 - [How to setup Amazon S3 for Static Website](https://clphan.com/how-to-setup-amazon-s3-for-static-website)
 - [Harness Workflow Template](https://clphan.com/harness-workflow-template)
 - [Deploy Hyperledger Fabric CA &lpar;Local&rpar;](https://clphan.com/deploy-hyperledger-fabric-ca-local)
 - [AWS Direct Connect Note](https://clphan.com/aws-direct-connect-note)
-- [Kubernetes CPU Resources Deep Dive](https://clphan.com/kubernetes-cpu-resources-deep-dive)
 <!-- BLOG-POST-LIST:END -->
 ➡️ [more blog posts...](https://clphan.com)
 
