@@ -4,7 +4,9 @@
 
 - 🔭 Check out my blog: [Personal Blog](https://clphan.com)!
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2022 Goals: Learn more about blockchain and web3 🔥
+- 🥅 2022 Goal: Learn more about blockchain and web3 🔥(worked in some mini projects building private blockchain network using Corda and Hyperledger Fabric).
+- 🥅 2023 Goal: Finish MSc.
+- 🥅 2024 Goal: Enhance current opensource projects (currently there is no description, code is messy etc.)
 - ⚡ Fun fact: I love coffee and I love machines 😅
 
 ### Connect with me:
